@@ -1,0 +1,55 @@
+{
+  "name": "use-similarity-select",
+  "description": "A React hook that allows you to use similarity search in a react-select component",
+  "license": "MIT",
+  "private": false,
+  "version": "0.0.1",
+  "type": "module",
+  "main": "dist/react-select/main.js",
+  "types": "dist/react-select/main.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build:lib": "tsc --p ./tsconfig.lib.json && vite build -c ./vite.config.lib.ts",
+    "build:demo": "tsc && vite build",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "prepublishOnly": "npm run build:lib"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-select": "^5.8.0"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-select": "^5.8.0",
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0",
+    "vite-plugin-dts": "^3.8.1"
+  },
+  "repository": "matipojo/use-react-select",
+  "author": {
+    "name": "Mati Horovitz",
+    "url": "https://github.com/matipojo"
+  },
+  "keywords": [
+    "react-select",
+    "react",
+    "hook",
+    "similarity-select",
+    "similarity",
+    "search"
+  ]
+}
