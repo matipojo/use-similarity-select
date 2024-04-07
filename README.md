@@ -79,7 +79,7 @@ To ensure optimal performance, avoid creating the `initialOptions` array within 
 
 ## License
 
-Use Similarity Select is open source software [licensed as MIT](https://github.com/yourusername/use-similarity-select/blob/main/LICENSE).
+Use Similarity Select is open source software [licensed as MIT](https://github.com/matipojo/use-similarity-select/blob/main/LICENSE).
 
 Favicon: Twemoji CC-BY 4.0
 
