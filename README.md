@@ -86,4 +86,4 @@ Favicon: Twemoji CC-BY 4.0
 
 ## Let's Connect!
 
-Got questions or suggestions? Reach out to us on [GitHub Discussions](https://github.com/yourusername/use-similarity-select/discussions) or submit an issue. We're always looking to improve and would love to hear from you.
+Got questions or suggestions? Reach out to us on [GitHub Discussions](https://github.com/matipojo/use-similarity-select/discussions) or submit an issue. We're always looking to improve and would love to hear from you.
