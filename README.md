@@ -1,7 +1,6 @@
 # Use Similarity Select 
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/matipojo/use-similarity-select/build.yml
-) ![npm version](https://img.shields.io/npm/v/use-similarity-select.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![npm version](https://img.shields.io/npm/v/use-similarity-select.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 **Use Similarity Select** is a user-friendly hook designed to enhance your select components with powerful similarity-based filtering, all while seamlessly integrating with the popular `react-select` library. 
 This project empowers developers to offer end-users an intuitive selection experience, ignoring typos and spelling mistakes.
