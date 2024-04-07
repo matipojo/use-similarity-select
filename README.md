@@ -10,6 +10,14 @@ This project empowers developers to offer end-users an intuitive selection exper
 
 - **Intuitive Similarity-Based Filtering**: Offers real-time suggestions based on similarity to the user's input, making it easier to find the desired option among a long list of options.
 
+### Examples
+
+#### American "Gray" works also when typing British "Grey"
+<img src="/assets/grey.webp" alt="Grey will find Gray" width="300" height="auto">
+
+#### A user that don't know how to spell Brown, will still get the correct result
+<img src="./assets/braun.webp" alt="Braun will find brown" width="300" height="auto">
+
 ## Features For Developers
 - **Easy Integration with React-Select**: Designed as a hook to work hand-in-glove with `react-select`, adding on to its capabilities without losing any of its original features.
 - **Lightweight and Efficient**: Crafted with performance in mind, ensuring a smooth experience even with large datasets.
@@ -17,7 +25,7 @@ This project empowers developers to offer end-users an intuitive selection exper
 
 ## Installation
 
-To integrate React Similarity Select into your project, run the following command:
+To integrate Use Similarity Select into your project, run the following command:
 
 ```bash
 npm install use-similarity-select
